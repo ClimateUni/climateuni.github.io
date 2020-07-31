@@ -6,7 +6,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username: climateuni2020
+facebook_username: climateuni
 github_username: climateuni
+reddit_username: climateuni
 
 # Build settings
 markdown: kramdown
